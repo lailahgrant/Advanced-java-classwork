@@ -1,0 +1,78 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@ page import="java.sql.*" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>My login page</title>
+</head>
+<body>
+<form method="post" action="index.jsp">
+<center>
+<table border="1" width="30%" cellpadding="5">
+<thead>
+<tr>
+<th colspan="2">Login page</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Enter your username</td>
+<td><input type="text" name="user"></td>
+</tr>
+<tr>
+<td>Enter your passsword</td>
+<td><input type="password" name="pass"></td>
+</tr>
+<tr>
+<td>Confirm your passsword</td>
+<td><input type="password" name="pass1"></td>
+</tr>
+<tr>
+<td><input type="submit" name="" value="Submit"></td>
+<td><input type="reset" name="" value="Reset"></td>
+</tr>
+</tbody>
+</table>
+</center>
+</form>
+</body>
+</html>
+
+
+<%
+
+	boolean check = request.getMethod().equals("POST");
+	if(check){
+		
+		Class.forName("com.mysql.jdbc.Driver");
+		Connection con=DriverManager.getConnection("");
+		
+	}
+
+%>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

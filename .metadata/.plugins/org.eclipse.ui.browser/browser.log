@@ -1,0 +1,841 @@
+
+Apr 16, 2018 12:44:55.99 NEW SESSION
+Apr 16, 2018 12:44:55.99 [6120:10264:0416/124452.495:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 16, 2018 12:44:55.99 [6120:10264:0416/124452.495:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 16, 2018 12:44:56.00 [6120:10264:0416/124452.495:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 16, 2018 12:44:56.00 [6120:10264:0416/124452.495:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 16, 2018 12:44:56.00 [6120:10264:0416/124452.495:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 16, 2018 12:44:57.13 [6120:8744:0416/124457.137:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2018 12:45:03.41 [6120:4524:0416/124503.402:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 16, 2018 12:45:17.89 [6120:8744:0416/124517.897:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2018 12:45:58.67 [6120:8744:0416/124558.677:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2018 12:47:42.25 [6120:8744:0416/124742.256:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+
+Apr 18, 2018 11:21:31.82 NEW SESSION
+Apr 18, 2018 11:21:31.82 [10500:2120:0418/112131.777:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 18, 2018 11:21:31.89 [10500:2120:0418/112131.777:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 18, 2018 11:21:31.89 [10500:2120:0418/112131.777:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 18, 2018 11:21:31.89 [10500:2120:0418/112131.777:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 18, 2018 11:21:31.89 [10500:2120:0418/112131.777:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 18, 2018 11:21:31.95 [10500:7212:0418/112131.951:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 18, 2018 11:21:32.45 [10500:10548:0418/112132.453:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 11:21:33.08 [10500:10548:0418/112133.086:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 11:21:54.42 [10500:10548:0418/112154.420:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 11:21:54.73 [10500:10548:0418/112154.732:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 11:22:35.61 [10500:10548:0418/112235.617:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 11:22:42.56 [10500:10548:0418/112242.560:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 11:24:01.11 [10500:10548:0418/112401.111:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 11:24:33.48 [10500:10548:0418/112433.484:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 11:27:36.26 [10500:10548:0418/112736.265:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 11:27:55.29 [10500:10548:0418/112755.291:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 11:30:21.30 [10500:2120:0418/113021.302:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 11:30:47.76 [10500:2120:0418/113047.763:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 11:31:39.85 [10500:2120:0418/113139.853:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 11:33:12.30 [10500:2120:0418/113312.300:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 11:34:08.94 [10500:10548:0418/113408.943:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 11:34:27.43 [10500:10548:0418/113427.429:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 11:36:21.79 [10500:2120:0418/113621.796:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 11:39:44.92 [10500:10548:0418/113944.926:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:39:45.12 [10500:10548:0418/113945.127:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:39:45.13 [10500:10548:0418/113945.133:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:39:45.23 [10500:10548:0418/113945.236:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:43:56.76 [10500:10548:0418/114356.760:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:43:56.91 [10500:10548:0418/114356.917:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:43:56.93 [10500:10548:0418/114356.933:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:43:57.02 [10500:10548:0418/114357.029:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:44:02.93 [10500:10548:0418/114402.934:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:44:03.09 [10500:10548:0418/114403.091:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:44:03.09 [10500:10548:0418/114403.098:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:44:03.16 [10500:10548:0418/114403.164:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 18, 2018 11:44:07.02 [10500:2120:0418/114407.028:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 11:44:08.95 [10500:10548:0418/114408.949:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 11:44:27.43 [10500:10548:0418/114427.434:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 11:54:07.03 [10500:2120:0418/115407.033:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 11:54:08.95 [10500:10548:0418/115408.954:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 11:54:27.43 [10500:10548:0418/115427.437:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 12:04:07.04 [10500:2120:0418/120407.043:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 12:04:08.96 [10500:10548:0418/120408.962:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 12:04:27.43 [10500:10548:0418/120427.438:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 12:14:07.05 [10500:2120:0418/121407.050:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 12:14:08.96 [10500:10548:0418/121408.965:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 12:14:31.65 [10500:10548:0418/121427.457:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 12:24:07.05 [10500:2120:0418/122407.055:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 12:24:08.97 [10500:10548:0418/122408.967:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 12:24:27.53 [10500:10548:0418/122427.530:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 12:34:07.06 [10500:2120:0418/123407.068:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 12:34:08.97 [10500:10548:0418/123408.976:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 12:34:27.53 [10500:10548:0418/123427.538:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 12:44:07.07 [10500:2120:0418/124407.071:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 12:44:08.97 [10500:10548:0418/124408.977:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 12:44:27.54 [10500:10548:0418/124427.540:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 12:54:07.08 [10500:2120:0418/125407.078:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 12:54:08.98 [10500:10548:0418/125408.984:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 12:54:27.54 [10500:10548:0418/125427.545:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2018 13:04:07.09 [10500:2120:0418/130407.099:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 18, 2018 13:04:08.99 [10500:10548:0418/130408.994:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 18, 2018 13:04:27.55 [10500:10548:0418/130427.556:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+
+Apr 19, 2018 10:10:21.39 NEW SESSION
+Apr 19, 2018 10:10:21.39 [336:9180:0419/101021.390:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 19, 2018 10:10:21.76 [336:8444:0419/101021.720:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:10:21.79 [336:8444:0419/101021.721:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:10:21.79 [336:8444:0419/101021.721:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:10:21.79 [336:8444:0419/101021.721:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:10:21.79 [336:8444:0419/101021.721:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:10:22.12 [336:7404:0419/101022.126:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:10:22.57 [336:7404:0419/101022.572:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:10:48.62 [336:7404:0419/101048.628:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:10:51.07 [336:7404:0419/101051.078:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:11:35.53 [336:7404:0419/101135.537:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:11:36.48 [336:7404:0419/101136.481:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:13:03.50 [336:7404:0419/101303.503:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:13:04.62 [336:7404:0419/101304.627:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:16:06.41 [336:7404:0419/101606.412:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:17:02.02 [336:7404:0419/101702.019:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:21:38.65 [336:8444:0419/102138.651:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:22:07.79 [336:8444:0419/102207.793:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:23:07.38 [336:8444:0419/102307.380:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:23:13.42 [336:7404:0419/102313.419:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:24:46.20 [336:7404:0419/102446.203:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:24:54.79 [336:8444:0419/102454.796:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:36:05.60 [5384:3264:0419/103605.528:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:36:05.60 [5384:3264:0419/103605.528:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:36:05.60 [5384:3264:0419/103605.528:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:36:05.60 [5384:3264:0419/103605.528:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:36:05.60 [5384:3264:0419/103605.528:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:36:06.17 [5384:768:0419/103606.174:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 19, 2018 10:36:06.57 [5384:6832:0419/103606.577:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:36:06.59 [5384:6832:0419/103606.590:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:36:27.62 [5384:6832:0419/103627.625:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:36:31.72 [5384:6832:0419/103631.727:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:37:17.79 [5384:6832:0419/103717.795:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:37:28.49 [5384:6832:0419/103728.499:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:38:43.68 [5384:6832:0419/103843.680:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:39:04.49 [5384:6832:0419/103904.491:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:41:21.87 [5384:3264:0419/104121.877:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:41:47.00 [5384:3264:0419/104147.003:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:42:07.61 [5384:6832:0419/104207.614:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:42:43.86 [5384:3264:0419/104243.865:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:43:02.96 [5384:6832:0419/104302.964:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:43:57.55 [2524:5176:0419/104357.457:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:43:57.55 [2524:5176:0419/104357.457:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:43:57.55 [2524:5176:0419/104357.457:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:43:57.55 [2524:5176:0419/104357.457:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:43:57.55 [2524:5176:0419/104357.457:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 19, 2018 10:43:57.88 [2524:7940:0419/104357.888:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 19, 2018 10:43:58.40 [2524:3680:0419/104358.407:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:43:58.43 [2524:3680:0419/104358.435:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:44:18.97 [2524:3680:0419/104418.970:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:44:24.52 [2524:3680:0419/104424.525:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:45:00.52 [2524:3680:0419/104500.528:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:45:19.09 [2524:3680:0419/104519.091:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:46:47.33 [2524:3680:0419/104647.330:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:46:51.71 [2524:3680:0419/104651.714:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:49:28.60 [2524:3680:0419/104928.604:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:50:15.26 [2524:3680:0419/105015.264:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:53:06.84 [2524:5176:0419/105306.848:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:53:36.25 [2524:5176:0419/105336.252:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:54:23.20 [2524:5176:0419/105423.208:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:55:42.47 [2524:3680:0419/105542.479:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 10:55:52.20 [2524:5176:0419/105552.200:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 10:57:25.81 [2524:3680:0419/105725.811:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 10:58:41.76 [2524:5176:0419/105841.760:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 11:04:22.00 [2524:5176:0419/110422.000:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 11:05:42.49 [2524:3680:0419/110542.493:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 11:07:25.83 [2524:3680:0419/110725.830:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 11:14:22.00 [2524:5176:0419/111422.007:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 11:15:42.52 [2524:3680:0419/111542.520:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 11:17:25.84 [2524:3680:0419/111725.847:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 11:24:22.02 [2524:5176:0419/112422.027:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 11:25:42.56 [2524:3680:0419/112542.561:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 11:27:25.85 [2524:3680:0419/112725.857:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 11:34:22.03 [2524:5176:0419/113422.039:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 11:35:42.56 [2524:3680:0419/113542.569:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 11:37:25.87 [2524:3680:0419/113725.873:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 11:44:22.04 [2524:5176:0419/114422.045:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 11:45:42.58 [2524:3680:0419/114542.588:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 11:47:25.94 [2524:3680:0419/114725.941:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 11:54:22.09 [2524:5176:0419/115422.092:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 11:55:42.60 [2524:3680:0419/115542.607:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 11:57:25.95 [2524:3680:0419/115725.953:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 12:04:22.10 [2524:5176:0419/120422.100:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 12:05:42.62 [2524:3680:0419/120542.621:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 12:07:25.97 [2524:3680:0419/120725.979:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 12:14:22.12 [2524:5176:0419/121422.124:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 12:15:42.63 [2524:3680:0419/121542.631:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 12:17:26.00 [2524:3680:0419/121726.005:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 12:24:22.13 [2524:5176:0419/122422.132:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 12:25:42.64 [2524:3680:0419/122542.644:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 12:27:26.02 [2524:3680:0419/122726.020:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 12:34:22.14 [2524:5176:0419/123422.141:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 12:35:42.64 [2524:3680:0419/123542.645:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 12:37:26.03 [2524:3680:0419/123726.035:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 12:44:22.18 [2524:5176:0419/124422.180:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 12:45:42.65 [2524:3680:0419/124542.650:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 12:47:26.04 [2524:3680:0419/124726.046:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 12:54:22.19 [2524:5176:0419/125422.196:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 19, 2018 12:55:42.66 [2524:3680:0419/125542.667:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 19, 2018 12:57:26.05 [2524:3680:0419/125726.056:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2018 12:58:53.28 [2524:3680:0419/125853.287:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 19, 2018 12:58:53.43 [2524:3680:0419/125853.433:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 19, 2018 12:58:53.44 [2524:3680:0419/125853.442:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 19, 2018 12:58:53.63 [2524:3680:0419/125853.631:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+
+Apr 20, 2018 10:02:25.23 NEW SESSION
+Apr 20, 2018 10:02:25.23 [8988:8932:0420/100225.226:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:02:25.36 [8988:8932:0420/100225.226:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:02:25.36 [8988:8932:0420/100225.226:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:02:25.36 [8988:8932:0420/100225.226:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:02:25.36 [8988:8932:0420/100225.226:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:02:26.10 [8988:6852:0420/100226.103:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 20, 2018 10:02:26.54 [8988:5140:0420/100226.540:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:02:26.57 [8988:5140:0420/100226.571:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:02:48.99 [8988:5140:0420/100248.991:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:02:50.02 [8988:5140:0420/100250.021:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:03:31.87 [8988:5140:0420/100331.877:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:03:41.63 [8988:5140:0420/100341.636:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:05:16.45 [8988:5140:0420/100516.455:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:05:41.02 [8988:5140:0420/100541.024:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:08:52.69 [8988:5140:0420/100852.696:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:11:53.91 [9172:9548:0420/101153.851:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:11:53.91 [9172:9548:0420/101153.851:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:11:53.91 [9172:9548:0420/101153.851:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:11:53.92 [9172:9548:0420/101153.851:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:11:53.92 [9172:9548:0420/101153.851:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 20, 2018 10:11:54.06 [9172:4500:0420/101154.066:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 20, 2018 10:11:54.49 [9172:6024:0420/101154.495:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:11:54.49 [9172:6024:0420/101154.497:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:12:22.40 [9172:6024:0420/101222.400:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:12:23.62 [9172:6024:0420/101223.622:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:13:08.02 [9172:6024:0420/101308.026:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:13:09.50 [9172:6024:0420/101309.508:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:15:01.08 [9172:6024:0420/101501.085:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:15:09.23 [9172:6024:0420/101509.229:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:18:12.46 [9172:6024:0420/101812.462:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 20, 2018 10:18:12.72 [9172:6024:0420/101812.721:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 20, 2018 10:18:12.73 [9172:6024:0420/101812.729:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 20, 2018 10:18:12.78 [9172:6024:0420/101812.779:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 20, 2018 10:18:47.02 [9172:6024:0420/101847.020:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:18:59.85 [9172:6024:0420/101859.850:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:24:33.69 [9172:6024:0420/102433.695:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:25:24.55 [9172:9548:0420/102524.557:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 10:25:51.18 [9172:9548:0420/102551.179:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 10:26:14.21 [9172:6024:0420/102614.214:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:26:32.94 [9172:9548:0420/102632.945:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 10:28:17.19 [9172:9548:0420/102817.193:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 10:32:04.55 [9172:9548:0420/103204.550:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 10:34:33.70 [9172:6024:0420/103433.708:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:36:14.21 [9172:6024:0420/103614.216:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:38:08.63 [9172:9548:0420/103808.635:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 10:44:33.72 [9172:6024:0420/104433.724:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:46:14.23 [9172:6024:0420/104614.235:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:48:08.72 [9172:9548:0420/104808.724:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 10:54:33.73 [9172:6024:0420/105433.738:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 10:56:14.23 [9172:6024:0420/105614.238:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 10:58:08.74 [9172:9548:0420/105808.743:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 11:04:33.75 [9172:6024:0420/110433.752:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 11:06:14.26 [9172:6024:0420/110614.262:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 11:08:08.76 [9172:9548:0420/110808.764:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 11:14:33.75 [9172:6024:0420/111433.756:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 11:16:14.27 [9172:6024:0420/111614.272:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 11:18:08.78 [9172:9548:0420/111808.789:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 11:26:08.30 [9172:6024:0420/112608.299:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 11:26:09.88 [9172:6024:0420/112608.468:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 11:27:54.64 [9172:9548:0420/112754.647:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 11:36:08.31 [9172:6024:0420/113608.317:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 11:36:08.47 [9172:6024:0420/113608.473:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 11:37:54.66 [9172:9548:0420/113754.661:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 11:46:08.33 [9172:6024:0420/114608.332:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 11:46:08.48 [9172:6024:0420/114608.489:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 11:47:54.66 [9172:9548:0420/114754.663:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 11:56:08.34 [9172:6024:0420/115608.348:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 11:56:08.50 [9172:6024:0420/115608.504:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 11:57:54.67 [9172:9548:0420/115754.673:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 12:06:08.35 [9172:6024:0420/120608.358:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 12:06:08.51 [9172:6024:0420/120608.514:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 12:07:54.68 [9172:9548:0420/120754.682:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 12:16:08.37 [9172:6024:0420/121608.373:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 12:16:08.52 [9172:6024:0420/121608.529:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 12:17:54.69 [9172:9548:0420/121754.695:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 12:26:08.39 [9172:6024:0420/122608.396:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 12:26:08.53 [9172:6024:0420/122608.536:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 12:27:54.72 [9172:9548:0420/122754.705:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 12:36:08.42 [9172:6024:0420/123608.425:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 12:36:08.55 [9172:6024:0420/123608.550:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 14:39:06.61 [9172:6024:0420/143906.569:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 14:39:08.29 [9172:6024:0420/143906.662:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 14:39:08.29 [9172:9548:0420/143908.295:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 14:49:06.59 [9172:6024:0420/144906.590:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 14:49:06.68 [9172:6024:0420/144906.684:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 14:49:08.30 [9172:9548:0420/144908.309:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 14:59:06.60 [9172:6024:0420/145906.602:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 14:59:06.68 [9172:6024:0420/145906.687:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 14:59:08.31 [9172:9548:0420/145908.314:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 15:09:06.60 [9172:6024:0420/150906.603:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 15:09:06.69 [9172:6024:0420/150906.697:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 15:09:08.32 [9172:9548:0420/150908.322:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 15:19:06.60 [9172:6024:0420/151906.608:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 15:19:06.70 [9172:6024:0420/151906.702:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 15:19:08.33 [9172:9548:0420/151908.334:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 15:29:06.61 [9172:6024:0420/152906.618:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 15:29:06.71 [9172:6024:0420/152906.713:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 15:29:08.35 [9172:9548:0420/152908.353:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 15:39:06.63 [9172:6024:0420/153906.634:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 15:39:06.72 [9172:6024:0420/153906.727:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 15:39:08.35 [9172:9548:0420/153908.356:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 15:49:06.66 [9172:6024:0420/154906.660:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 15:49:06.74 [9172:6024:0420/154906.739:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 15:49:08.38 [9172:9548:0420/154908.386:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 15:59:06.67 [9172:6024:0420/155906.670:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 15:59:06.74 [9172:6024:0420/155906.745:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 15:59:08.40 [9172:9548:0420/155908.401:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 16:09:06.67 [9172:6024:0420/160906.672:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 16:09:06.75 [9172:6024:0420/160906.754:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 16:09:08.40 [9172:9548:0420/160908.406:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Apr 20, 2018 19:02:26.29 NEW SESSION
+Apr 20, 2018 19:02:26.29 [204:5876:0420/190226.294:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 20, 2018 19:02:27.95 [204:6996:0420/190227.953:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 19:02:28.50 [204:6996:0420/190228.504:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 19:02:32.94 [204:7344:0420/190232.943:ERROR:backend_impl.cc(1055)] Critical error found -8
+Apr 20, 2018 19:02:38.91 [204:7344:0420/190238.916:ERROR:backend_impl.cc(1055)] Critical error found -8
+Apr 20, 2018 19:02:39.16 [204:7344:0420/190239.164:ERROR:backend_impl.cc(1055)] Critical error found -8
+Apr 20, 2018 19:02:39.16 [204:7344:0420/190239.165:ERROR:entry_impl.cc(1037)] No file for a00102d3
+Apr 20, 2018 19:02:55.14 [204:6996:0420/190255.141:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 19:02:57.43 [204:6996:0420/190257.434:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 19:03:36.76 [204:6996:0420/190336.769:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 19:03:53.70 [204:6996:0420/190353.700:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 19:05:02.08 [204:6996:0420/190502.080:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 19:05:34.71 [204:6996:0420/190534.715:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 19:08:29.69 [204:6996:0420/190829.689:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2018 19:08:59.57 [204:6996:0420/190859.574:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 20, 2018 19:10:38.08 [204:7796:0420/191038.089:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 19:11:07.58 [204:7796:0420/191107.583:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 19:11:48.13 [204:7796:0420/191148.131:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 19:13:32.43 [204:7796:0420/191332.432:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 20, 2018 19:13:53.70 [204:6996:0420/191353.701:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+
+Apr 23, 2018 10:06:53.96 NEW SESSION
+Apr 23, 2018 10:06:53.96 [328:1204:0423/100653.932:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 23, 2018 10:06:54.07 [328:1204:0423/100653.932:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 23, 2018 10:06:54.07 [328:1204:0423/100653.932:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 23, 2018 10:06:54.07 [328:1204:0423/100653.932:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 23, 2018 10:06:54.07 [328:1204:0423/100653.932:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 23, 2018 10:06:55.39 [328:7508:0423/100655.396:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 23, 2018 10:06:57.65 [328:4908:0423/100657.653:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 10:06:58.08 [328:4908:0423/100658.085:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 10:07:24.14 [328:4908:0423/100724.148:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 10:07:27.69 [328:4908:0423/100727.679:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 10:08:11.86 [328:4908:0423/100811.868:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 10:08:18.74 [328:4908:0423/100818.741:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 10:09:35.70 [328:4908:0423/100935.705:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 10:09:51.37 [328:4908:0423/100951.375:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 10:09:51.51 [328:4908:0423/100951.519:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 10:09:51.53 [328:4908:0423/100951.531:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 10:09:51.59 [328:4908:0423/100951.599:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 10:10:07.02 [328:4908:0423/101007.023:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 10:12:52.88 [328:4908:0423/101252.885:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 10:13:46.97 [328:4908:0423/101346.972:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 10:15:47.29 [328:1204:0423/101547.297:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 10:16:13.81 [328:1204:0423/101613.814:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 10:16:59.88 [328:1204:0423/101659.880:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 10:18:34.68 [328:1204:0423/101834.689:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 10:19:43.48 [328:4908:0423/101943.485:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 10:20:51.55 [328:4908:0423/102051.551:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 10:21:35.93 [328:1204:0423/102135.931:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 10:28:46.70 [328:1204:0423/102846.700:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 10:29:43.49 [328:4908:0423/102943.493:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 10:30:51.56 [328:4908:0423/103051.563:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 10:38:46.72 [328:1204:0423/103846.720:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 10:39:43.49 [328:4908:0423/103943.498:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 10:40:50.92 [328:4908:0423/104050.921:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 10:40:51.04 [328:4908:0423/104051.045:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 10:40:51.06 [328:4908:0423/104051.061:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 10:40:51.21 [328:4908:0423/104051.217:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 10:40:51.57 [328:4908:0423/104051.573:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 10:48:46.73 [328:1204:0423/104846.738:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 10:49:43.51 [328:4908:0423/104943.515:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 10:50:51.57 [328:4908:0423/105051.575:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 10:58:46.74 [328:1204:0423/105846.745:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 10:59:43.52 [328:4908:0423/105943.525:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 11:00:51.58 [328:4908:0423/110051.583:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 11:03:52.14 [328:4908:0423/110352.148:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 11:03:52.40 [328:4908:0423/110352.401:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 11:03:52.48 [328:4908:0423/110352.485:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 11:03:52.50 [328:4908:0423/110352.503:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 11:08:46.75 [328:1204:0423/110846.751:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 11:09:43.53 [328:4908:0423/110943.535:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 11:10:51.58 [328:4908:0423/111051.587:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 11:18:46.76 [328:1204:0423/111846.757:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 11:19:43.54 [328:4908:0423/111943.542:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 11:20:51.58 [328:4908:0423/112051.589:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 11:28:46.77 [328:1204:0423/112846.771:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 11:29:43.54 [328:4908:0423/112943.546:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 11:30:51.59 [328:4908:0423/113051.593:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 11:38:37.05 [328:4908:0423/113837.056:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 11:38:37.28 [328:4908:0423/113837.280:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 11:38:37.29 [328:4908:0423/113837.299:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 11:38:37.30 [328:4908:0423/113837.302:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 11:38:46.77 [328:1204:0423/113846.774:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 11:39:43.55 [328:4908:0423/113943.549:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 11:40:51.59 [328:4908:0423/114051.595:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 11:48:46.78 [328:1204:0423/114846.787:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 11:49:43.55 [328:4908:0423/114943.552:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 11:50:51.59 [328:4908:0423/115051.597:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 11:58:46.79 [328:1204:0423/115846.794:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 11:59:43.56 [328:4908:0423/115943.559:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 12:00:51.60 [328:4908:0423/120051.601:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 12:08:46.79 [328:1204:0423/120846.798:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 12:09:43.57 [328:4908:0423/120943.573:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 12:10:51.60 [328:4908:0423/121051.603:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 12:18:46.80 [328:1204:0423/121846.803:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 12:19:43.57 [328:4908:0423/121943.577:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 12:20:51.63 [328:4908:0423/122051.631:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 12:28:46.80 [328:1204:0423/122846.808:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 12:29:43.58 [328:4908:0423/122943.589:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 12:30:51.63 [328:4908:0423/123051.634:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 12:38:46.82 [328:1204:0423/123846.820:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 12:39:43.60 [328:4908:0423/123943.605:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 12:40:51.63 [328:4908:0423/124051.635:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 12:48:46.84 [328:1204:0423/124846.838:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 23, 2018 12:49:43.61 [328:4908:0423/124943.616:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 23, 2018 12:50:51.64 [328:4908:0423/125051.648:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 23, 2018 12:51:52.65 [328:4908:0423/125152.659:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -105
+Apr 23, 2018 12:51:56.24 [328:4908:0423/125156.245:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -21
+Apr 23, 2018 12:52:06.22 [328:4908:0423/125206.221:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:52:06.58 [328:4908:0423/125206.588:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:52:08.28 [328:4908:0423/125208.280:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:52:13.85 [328:4908:0423/125213.852:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:52:14.11 [328:4908:0423/125214.114:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:52:14.28 [328:4908:0423/125214.280:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:52:16.98 [328:4908:0423/125216.980:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:52:17.71 [328:4908:0423/125217.718:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:53:08.08 [328:4908:0423/125308.080:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:53:08.31 [328:4908:0423/125308.313:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:53:09.49 [328:4908:0423/125309.493:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:53:10.22 [328:4908:0423/125310.226:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:55:29.99 [328:4908:0423/125529.994:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:55:30.72 [328:4908:0423/125530.721:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:55:31.20 [328:4908:0423/125531.203:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:55:32.04 [328:4908:0423/125532.045:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 23, 2018 12:56:07.03 [328:4908:0423/125607.029:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+
+Apr 25, 2018 10:46:36.93 NEW SESSION
+Apr 25, 2018 10:46:36.93 [8176:9924:0425/104636.878:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 25, 2018 10:46:37.07 [8176:9924:0425/104636.878:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 25, 2018 10:46:37.08 [8176:9924:0425/104636.878:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 25, 2018 10:46:37.08 [8176:9924:0425/104636.879:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 25, 2018 10:46:37.08 [8176:9924:0425/104636.879:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 25, 2018 10:46:37.20 [8176:6032:0425/104637.204:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 25, 2018 10:46:38.40 [8176:8956:0425/104638.406:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 10:46:58.81 [8176:8956:0425/104658.816:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 10:47:50.46 [8176:8956:0425/104750.467:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 10:48:42.37 [8176:9924:0425/104842.371:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 10:49:06.18 [8176:9924:0425/104906.181:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 10:49:35.84 [8176:8956:0425/104935.843:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 10:49:53.47 [8176:9924:0425/104953.472:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 10:51:05.70 [8176:8956:0425/105105.703:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 10:51:05.96 [8176:8956:0425/105105.967:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 10:51:05.97 [8176:8956:0425/105105.971:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 10:51:06.08 [8176:8956:0425/105106.085:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 10:51:47.06 [8176:9924:0425/105147.066:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 10:52:06.73 [8176:8956:0425/105206.736:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 10:52:07.07 [8176:8956:0425/105207.071:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 10:52:07.07 [8176:8956:0425/105207.074:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 10:52:07.08 [8176:8956:0425/105207.081:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 10:53:21.13 [8176:8956:0425/105321.136:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 10:54:30.33 [8176:9924:0425/105430.338:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 10:58:58.65 [8176:8956:0425/105858.650:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 11:01:54.29 [8176:9924:0425/110154.293:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 11:08:58.67 [8176:8956:0425/110858.670:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 11:11:54.31 [8176:9924:0425/111154.314:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 11:18:58.69 [8176:8956:0425/111858.688:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 11:21:54.33 [8176:9924:0425/112154.336:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 11:28:58.70 [8176:8956:0425/112858.701:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 11:31:54.35 [8176:9924:0425/113154.355:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 11:38:58.71 [8176:8956:0425/113858.711:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 11:41:54.37 [8176:9924:0425/114154.376:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 11:48:58.72 [8176:8956:0425/114858.722:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 11:51:54.40 [8176:9924:0425/115154.400:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 11:58:58.74 [8176:8956:0425/115858.740:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 12:01:54.42 [8176:9924:0425/120154.420:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 12:07:02.71 [8176:8956:0425/120702.715:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 12:07:02.87 [8176:8956:0425/120702.877:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 12:07:02.90 [8176:8956:0425/120702.899:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 12:07:02.97 [8176:8956:0425/120702.975:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Apr 25, 2018 12:08:58.74 [8176:8956:0425/120858.743:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 12:11:54.44 [8176:9924:0425/121154.440:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 12:18:58.74 [8176:8956:0425/121858.744:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 12:21:54.45 [8176:9924:0425/122154.451:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 25, 2018 12:28:58.75 [8176:8956:0425/122858.756:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2018 12:31:54.46 [8176:9924:0425/123154.463:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Apr 26, 2018 10:54:23.16 NEW SESSION
+Apr 26, 2018 10:54:23.16 [6444:8140:0426/105423.094:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 26, 2018 10:54:23.26 [6444:8140:0426/105423.094:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 26, 2018 10:54:23.26 [6444:8140:0426/105423.094:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 26, 2018 10:54:23.26 [6444:8140:0426/105423.095:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 26, 2018 10:54:23.26 [6444:8140:0426/105423.095:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Apr 26, 2018 10:54:23.57 [6444:9464:0426/105423.576:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 26, 2018 10:54:24.06 [6444:6436:0426/105424.068:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 26, 2018 10:54:47.86 [6444:6436:0426/105447.867:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 26, 2018 10:55:43.07 [6444:6436:0426/105543.079:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 26, 2018 10:57:08.45 [6444:6436:0426/105708.451:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -106
+Apr 26, 2018 10:59:18.54 [6444:8140:0426/105918.542:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Apr 26, 2018 10:59:43.53 [6444:8140:0426/105943.531:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+May 18, 2018 11:19:49.95 NEW SESSION
+May 18, 2018 11:19:49.95 [8312:10628:0518/111949.828:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 18, 2018 11:19:50.08 [8312:10628:0518/111949.901:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 18, 2018 11:19:50.08 [8312:10628:0518/111949.901:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 18, 2018 11:19:50.08 [8312:10628:0518/111949.901:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 18, 2018 11:19:50.09 [8312:10628:0518/111949.901:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 18, 2018 11:19:54.35 [8312:876:0518/111954.351:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 18, 2018 11:28:18.69 [8312:2584:0518/112818.689:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 18, 2018 11:28:19.01 [8312:2584:0518/112819.009:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 18, 2018 11:28:19.02 [8312:2584:0518/112819.029:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 18, 2018 11:28:19.14 [8312:2584:0518/112819.147:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+
+May 21, 2018 16:30:11.69 NEW SESSION
+May 21, 2018 16:30:11.69 [2312:12204:0521/163011.288:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 21, 2018 16:44:11.24 [2312:1732:0521/164411.248:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 21, 2018 16:44:34.78 [2312:1732:0521/164434.780:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 21, 2018 16:45:31.79 [2312:1732:0521/164531.797:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 21, 2018 16:47:03.34 [2312:1732:0521/164703.340:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 21, 2018 16:50:02.51 [2312:1732:0521/165002.514:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 21, 2018 16:57:44.89 [2312:1732:0521/165744.893:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 21, 2018 17:07:44.90 [2312:1732:0521/170744.901:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 21, 2018 17:17:21.60 [10800:2392:0521/171721.494:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 21, 2018 17:17:21.60 [10800:2392:0521/171721.494:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 21, 2018 17:17:21.60 [10800:2392:0521/171721.494:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 21, 2018 17:17:21.61 [10800:2392:0521/171721.494:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 21, 2018 17:17:21.61 [10800:2392:0521/171721.494:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 21, 2018 17:17:21.81 [10800:6416:0521/171721.810:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+
+May 23, 2018 08:55:22.73 NEW SESSION
+May 23, 2018 08:55:22.74 [9808:6192:0523/085522.736:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 23, 2018 09:00:50.49 [9808:10448:0523/090050.496:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:01:12.87 [9808:10448:0523/090112.873:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:02:00.95 [9808:10448:0523/090200.955:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:03:44.25 [3036:1420:0523/090344.178:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 09:03:44.25 [3036:1420:0523/090344.178:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 09:03:44.25 [3036:1420:0523/090344.178:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 09:03:44.26 [3036:1420:0523/090344.178:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 09:03:44.26 [3036:1420:0523/090344.178:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 09:03:44.88 [3036:492:0523/090344.881:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 23, 2018 09:04:20.42 [3036:7964:0523/090420.420:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 23, 2018 09:04:20.62 [3036:7964:0523/090420.626:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 23, 2018 09:04:20.67 [3036:7964:0523/090420.670:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 23, 2018 09:04:21.08 [3036:7964:0523/090421.085:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 23, 2018 09:06:52.64 [3036:1420:0523/090652.645:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:07:19.95 [3036:1420:0523/090719.950:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:08:19.14 [3036:1420:0523/090819.142:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:10:18.11 [3036:1420:0523/091018.110:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:14:13.94 [3036:1420:0523/091413.942:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:21:23.17 [3036:1420:0523/092123.174:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:31:23.18 [3036:1420:0523/093123.187:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:41:23.20 [3036:1420:0523/094123.203:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 09:51:23.22 [3036:1420:0523/095123.225:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 10:01:23.23 [3036:1420:0523/100123.234:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 10:11:23.24 [3036:1420:0523/101123.246:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 10:21:23.25 [3036:1420:0523/102123.256:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 10:31:23.26 [3036:1420:0523/103123.267:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 10:41:23.27 [3036:1420:0523/104123.272:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 10:51:23.28 [3036:1420:0523/105123.281:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 11:01:23.29 [3036:1420:0523/110123.291:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 11:11:23.29 [3036:1420:0523/111123.297:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 11:21:23.30 [3036:1420:0523/112123.308:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 11:31:23.32 [3036:1420:0523/113123.324:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 11:41:23.33 [3036:1420:0523/114123.330:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 11:51:23.34 [3036:1420:0523/115123.349:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 12:01:23.36 [3036:1420:0523/120123.363:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 12:11:23.38 [3036:1420:0523/121123.381:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 12:21:23.44 [3036:1420:0523/122123.432:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 12:31:23.45 [3036:1420:0523/123123.457:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 12:41:23.46 [3036:1420:0523/124123.464:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 12:51:23.47 [3036:1420:0523/125123.479:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 13:01:23.49 [3036:1420:0523/130123.498:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+May 23, 2018 15:44:12.84 NEW SESSION
+May 23, 2018 15:44:12.84 [652:9144:0523/154412.825:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 15:44:12.85 [652:9144:0523/154412.826:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 15:44:12.86 [652:9144:0523/154412.826:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 15:44:12.87 [652:9144:0523/154412.826:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 15:44:12.87 [652:9144:0523/154412.826:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 23, 2018 15:44:12.88 [652:10728:0523/154412.888:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 23, 2018 15:45:46.00 [652:9144:0523/154546.007:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 15:46:09.34 [652:9144:0523/154609.343:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 15:47:03.72 [652:9144:0523/154703.719:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 15:48:53.50 [652:9144:0523/154853.506:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 15:51:43.77 [652:9144:0523/155143.772:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 15:58:51.02 [652:9144:0523/155851.021:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 16:08:51.04 [652:9144:0523/160851.047:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 16:18:51.06 [652:9144:0523/161851.061:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 16:28:51.07 [652:9144:0523/162851.078:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 23, 2018 16:38:51.09 [652:9144:0523/163851.088:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+May 25, 2018 09:14:04.56 NEW SESSION
+May 25, 2018 09:14:04.56 [8244:8784:0525/091404.550:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 25, 2018 09:14:09.43 [8244:10664:0525/091409.435:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:14:09.44 [8244:10664:0525/091409.439:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:14:09.44 [8244:10664:0525/091409.439:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:14:09.44 [8244:10664:0525/091409.439:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:14:09.44 [8244:10664:0525/091409.439:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:15:55.70 [4656:7496:0525/091555.657:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:15:55.70 [4656:7496:0525/091555.657:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:15:55.72 [4656:7496:0525/091555.657:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:15:55.72 [4656:7496:0525/091555.658:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:15:55.73 [4656:7496:0525/091555.658:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:15:56.06 [4656:8516:0525/091556.060:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 25, 2018 09:18:29.33 [4656:7496:0525/091829.330:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:18:50.17 [4656:7496:0525/091850.170:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:19:37.39 [4656:7496:0525/091937.394:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:21:06.43 [4656:7496:0525/092106.429:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:23:54.09 [4656:7496:0525/092354.098:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:30:01.39 [4656:7496:0525/093001.395:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:38:33.46 [9040:1120:0525/093833.371:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:38:33.46 [9040:1120:0525/093833.371:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:38:33.46 [9040:1120:0525/093833.371:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:38:33.46 [9040:1120:0525/093833.371:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:38:33.47 [9040:1120:0525/093833.371:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 09:38:33.70 [9040:3700:0525/093833.706:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 25, 2018 09:52:42.99 [9040:1120:0525/095242.992:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:53:09.17 [9040:1120:0525/095309.177:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:54:08.68 [9040:1120:0525/095408.687:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:56:06.93 [9040:1120:0525/095606.935:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 09:59:58.87 [9040:1120:0525/095958.870:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 10:50:34.97 [1584:5348:0525/105034.881:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 10:50:34.97 [1584:5348:0525/105034.881:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 10:50:34.98 [1584:5348:0525/105034.881:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 10:50:34.98 [1584:5348:0525/105034.881:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 10:50:34.98 [1584:5348:0525/105034.881:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 25, 2018 10:50:35.72 [1584:9004:0525/105035.722:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 25, 2018 10:58:19.75 [1584:5348:0525/105819.756:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 10:58:40.68 [1584:5348:0525/105840.682:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 10:59:23.29 [1584:5348:0525/105923.294:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 11:01:16.75 [1584:5348:0525/110116.751:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 11:03:58.56 [1584:5348:0525/110358.564:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 11:04:00.60 [1584:1200:0525/110400.608:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 25, 2018 11:04:00.76 [1584:1200:0525/110400.761:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 25, 2018 11:04:00.78 [1584:1200:0525/110400.789:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 25, 2018 11:04:01.07 [1584:1200:0525/110401.073:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 25, 2018 11:09:27.14 [1584:5348:0525/110927.143:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 11:19:27.15 [1584:5348:0525/111927.153:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 11:29:27.16 [1584:5348:0525/112927.161:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 14:35:27.59 [1584:5348:0525/143527.593:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2018 14:39:33.07 [1584:1200:0525/143933.073:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 25, 2018 14:39:33.24 [1584:1200:0525/143933.241:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 25, 2018 14:39:33.25 [1584:1200:0525/143933.257:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 25, 2018 14:39:33.32 [1584:1200:0525/143933.329:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 25, 2018 14:44:07.27 [1584:5348:0525/144407.276:ERROR:CONSOLE(22)] "Empty response arrived for script 'chrome-devtools://devtools/remote/serve_file/@dc3469be277cc962ba01d9c0cb5bb1a265676c36/product_registry_impl/product_registry_impl_module.js'", source: chrome-devtools://devtools/bundled/inspector.js (22)
+May 25, 2018 14:44:07.30 [1584:5348:0525/144407.308:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:07.30 [1584:5348:0525/144407.308:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:09.07 [1584:5348:0525/144409.074:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:09.19 [1584:5348:0525/144409.186:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:11.06 [1584:5348:0525/144411.067:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:11.45 [1584:5348:0525/144411.451:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:11.49 [1584:5348:0525/144411.491:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:14.46 [1584:5348:0525/144414.465:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:14.46 [1584:5348:0525/144414.465:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:14.72 [1584:5348:0525/144414.729:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:20.30 [1584:5348:0525/144420.299:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:20.36 [1584:5348:0525/144420.367:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:20.38 [1584:5348:0525/144420.383:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:22.19 [1584:5348:0525/144422.199:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:22.19 [1584:5348:0525/144422.199:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:22.33 [1584:5348:0525/144422.339:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:23.68 [1584:5348:0525/144423.685:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:23.68 [1584:5348:0525/144423.689:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:24.10 [1584:5348:0525/144424.109:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:24.13 [1584:5348:0525/144424.137:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:24.46 [1584:5348:0525/144424.465:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:24.46 [1584:5348:0525/144424.469:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:24.56 [1584:5348:0525/144424.569:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:25.26 [1584:5348:0525/144425.260:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:25.28 [1584:5348:0525/144425.280:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:25.57 [1584:5348:0525/144425.572:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:25.78 [1584:5348:0525/144425.784:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:25.96 [1584:5348:0525/144425.964:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:26.01 [1584:5348:0525/144426.012:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:26.22 [1584:5348:0525/144426.225:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:26.24 [1584:5348:0525/144426.245:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:26.73 [1584:5348:0525/144426.733:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:26.73 [1584:5348:0525/144426.737:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:27.09 [1584:5348:0525/144427.097:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:27.13 [1584:5348:0525/144427.137:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:27.62 [1584:5348:0525/144427.627:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:27.64 [1584:5348:0525/144427.639:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:27.81 [1584:5348:0525/144427.819:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:28.26 [1584:5348:0525/144428.263:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:28.29 [1584:5348:0525/144428.299:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:28.68 [1584:5348:0525/144428.683:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:28.71 [1584:5348:0525/144428.715:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:28.76 [1584:5348:0525/144428.763:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:30.72 [1584:5348:0525/144430.720:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:30.80 [1584:5348:0525/144430.804:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:30.96 [1584:5348:0525/144430.968:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:30.99 [1584:5348:0525/144430.992:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:36.58 [1584:5348:0525/144436.584:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:36.61 [1584:5348:0525/144436.612:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:44:36.68 [1584:5348:0525/144436.680:ERROR:CONSOLE(105)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (105)
+May 25, 2018 14:45:27.60 [1584:5348:0525/144527.604:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+May 26, 2018 09:55:02.97 NEW SESSION
+May 26, 2018 09:55:02.97 [6672:6440:0526/095502.975:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 26, 2018 10:07:13.51 [6672:9224:0526/100713.518:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 10:07:40.04 [6672:9224:0526/100740.049:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 10:08:29.00 [6672:9224:0526/100829.001:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 10:09:56.74 [6672:9224:0526/100956.747:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 10:12:37.75 [6672:9224:0526/101237.759:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 10:17:40.04 [9920:6048:0526/101739.989:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:17:40.04 [9920:6048:0526/101739.989:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:17:40.05 [9920:6048:0526/101739.989:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:17:40.06 [9920:6048:0526/101739.989:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:17:40.06 [9920:6048:0526/101739.989:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:17:40.21 [9920:1408:0526/101740.215:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 26, 2018 10:28:24.61 [9920:6048:0526/102824.612:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 10:28:50.02 [9920:6048:0526/102850.026:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 10:29:48.15 [9920:6048:0526/102948.155:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 10:30:34.13 [4680:5676:0526/103034.060:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:30:34.13 [4680:5676:0526/103034.061:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:30:34.13 [4680:5676:0526/103034.061:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:30:34.13 [4680:5676:0526/103034.061:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:30:34.13 [4680:5676:0526/103034.061:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 10:30:34.39 [4680:9484:0526/103034.389:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+
+May 26, 2018 15:28:06.31 NEW SESSION
+May 26, 2018 15:28:06.31 [3720:7240:0526/152806.317:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 26, 2018 15:34:58.88 [3720:8916:0526/153458.881:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 15:35:24.24 [3720:8916:0526/153524.246:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 15:36:18.55 [3720:8916:0526/153618.554:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 15:37:51.55 [3720:8916:0526/153751.551:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 15:40:51.43 [3720:8916:0526/154051.431:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 15:44:01.17 [5312:2072:0526/154401.114:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 15:44:01.19 [5312:2072:0526/154401.114:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 15:44:01.19 [5312:2072:0526/154401.114:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 15:44:01.20 [5312:2072:0526/154401.114:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 15:44:01.20 [5312:2072:0526/154401.114:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 15:44:01.20 [5312:2072:0526/154401.114:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 26, 2018 15:44:01.27 [5312:2004:0526/154401.278:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 26, 2018 15:56:38.91 [5312:2072:0526/155638.918:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 15:57:05.59 [5312:2072:0526/155705.595:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 15:57:49.25 [5312:2072:0526/155749.258:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 15:59:38.90 [5312:2072:0526/155938.900:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 16:03:11.09 [5312:2072:0526/160311.092:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 16:09:22.23 [5312:2072:0526/160922.232:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 16:19:22.25 [5312:2072:0526/161922.252:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 16:29:22.26 [5312:2072:0526/162922.260:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 16:33:02.97 [5312:2072:0526/163302.976:ERROR:CONSOLE(168)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://localhost') does not match the recipient window's origin ('https://www.google.com').", source: chrome-search://most-visited/single.js (168)
+May 26, 2018 16:33:02.98 [5312:2600:0526/163302.980:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 26, 2018 16:33:02.98 [5312:2600:0526/163302.984:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 26, 2018 16:39:22.28 [5312:2072:0526/163922.282:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 16:49:22.30 [5312:2072:0526/164922.300:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 16:59:22.30 [5312:2072:0526/165922.304:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 17:09:22.29 [5312:2072:0526/170922.298:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 17:19:22.32 [5312:2072:0526/171922.322:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 17:29:22.33 [5312:2072:0526/172922.330:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 17:39:22.33 [5312:2072:0526/173922.339:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 17:49:22.36 [5312:2072:0526/174922.362:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 17:59:22.39 [5312:2072:0526/175922.399:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 18:09:22.44 [5312:2072:0526/180922.441:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 18:19:22.46 [5312:2072:0526/181922.465:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 26, 2018 18:29:22.47 [5312:2072:0526/182922.476:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+May 28, 2018 10:50:38.85 NEW SESSION
+May 28, 2018 10:50:38.85 [9936:7912:0528/105038.854:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+
+May 29, 2018 10:12:20.89 NEW SESSION
+May 29, 2018 10:12:20.89 [9824:10124:0529/101220.859:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 29, 2018 10:12:21.01 [9824:10124:0529/101220.859:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 29, 2018 10:12:21.03 [9824:10124:0529/101220.859:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 29, 2018 10:12:21.03 [9824:10124:0529/101220.859:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 29, 2018 10:12:21.03 [9824:10124:0529/101220.859:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 29, 2018 10:12:21.03 [9824:10124:0529/101220.859:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 29, 2018 10:12:21.04 [9824:10124:0529/101220.859:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+May 29, 2018 10:12:21.04 [9824:10124:0529/101221.033:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 10:12:21.16 [9824:5108:0529/101221.163:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 29, 2018 10:12:50.72 [9824:10124:0529/101250.723:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 10:13:49.19 [9824:10124:0529/101349.197:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 10:15:15.03 [9824:10124:0529/101515.032:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 10:16:35.09 [9824:928:0529/101635.093:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 29, 2018 10:16:35.30 [9824:928:0529/101635.304:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 29, 2018 10:16:35.31 [9824:928:0529/101635.314:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 29, 2018 10:16:35.72 [9824:928:0529/101635.720:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+May 29, 2018 10:17:58.83 [9824:10124:0529/101758.822:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 10:24:20.39 [9824:10124:0529/102420.396:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 10:34:20.40 [9824:10124:0529/103420.405:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 10:44:20.41 [9824:10124:0529/104420.412:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 10:54:20.42 [9824:10124:0529/105420.426:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 11:04:20.43 [9824:10124:0529/110420.432:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 11:14:20.44 [9824:10124:0529/111420.449:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 11:24:20.46 [9824:10124:0529/112420.460:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 11:36:42.69 [9824:10124:0529/113642.699:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 11:46:42.71 [9824:10124:0529/114642.717:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 11:56:34.09 [9824:10124:0529/115634.075:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 12:06:34.09 [9824:10124:0529/120634.090:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 29, 2018 12:16:34.18 [9824:10124:0529/121634.185:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jun 04, 2018 18:37:47.96 NEW SESSION
+Jun 04, 2018 18:37:47.96 [1536:7392:0604/183747.929:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Jun 04, 2018 18:37:51.68 [1536:11232:0604/183751.687:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Jun 04, 2018 18:37:51.71 [1536:11232:0604/183751.710:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Jun 04, 2018 18:37:51.71 [1536:11232:0604/183751.710:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Jun 04, 2018 18:37:51.71 [1536:11232:0604/183751.710:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Jun 04, 2018 18:37:51.71 [1536:11232:0604/183751.710:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Jun 04, 2018 18:37:51.71 [1536:11232:0604/183751.710:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Jun 04, 2018 18:37:51.71 [1536:11232:0604/183751.711:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Jun 04, 2018 18:37:51.71 [1536:11232:0604/183751.711:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+Jun 04, 2018 18:37:51.71 [1536:11232:0604/183751.711:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+                                                                                                                                                                                                                                                                                                                                                                                                                   
+Jun 04, 2018 19:31:55.70 NEW SESSION
+Jun 04, 2018 19:31:55.70 [2340:1916:0604/193155.615:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Jun 04, 2018 19:31:57.92 [2340:7036:0604/193157.926:ERROR:backend_impl.cc(1064)] Critical error found -8
+Jun 04, 2018 19:32:03.70 [2340:4980:0604/193203.708:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+Jun 04, 2018 19:32:08.67 [2340:7036:0604/193208.668:ERROR:backend_impl.cc(1064)] Critical error found -8
+Jun 04, 2018 19:32:20.50 [2340:7036:0604/193220.504:ERROR:entry_impl.cc(962)] Failed to save user data
+Jun 04, 2018 19:32:20.50 [2340:7036:0604/193220.504:ERROR:entry_impl.cc(962)] Failed to save user data
+Jun 04, 2018 19:32:28.93 [2340:4980:0604/193228.935:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+Jun 04, 2018 19:32:30.67 [2340:7036:0604/193230.677:ERROR:backend_impl.cc(1064)] Critical error found -8
+Jun 04, 2018 19:32:43.04 [2340:4980:0604/193243.042:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+Jun 04, 2018 19:33:19.06 Unable to read VR Path Registry from C:\Users\Lailah\AppData\Local\openvr\openvrpaths.vrpath
+Jun 04, 2018 19:33:19.06 [2340:4980:0604/193319.064:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+Jun 04, 2018 19:34:42.59 [2340:4980:0604/193442.596:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+Jun 04, 2018 19:34:42.60 [2340:4980:0604/193442.597:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+Jun 04, 2018 19:34:48.23 [2340:4980:0604/193448.228:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+Jun 04, 2018 19:34:58.14 [2340:4980:0604/193458.143:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+Jun 04, 2018 19:35:09.94 [2340:4980:0604/193509.941:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+
+Jun 05, 2018 17:30:43.56 NEW SESSION
+Jun 05, 2018 17:30:43.56 [6368:11728:0605/173043.455:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Jun 05, 2018 17:30:46.30 [6368:12120:0605/173046.303:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+Jun 05, 2018 17:31:15.05 [6368:12120:0605/173115.059:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+Jun 05, 2018 17:32:08.39 Unable to read VR Path Registry from C:\Users\Lailah\AppData\Local\openvr\openvrpaths.vrpath
+Jun 05, 2018 17:32:08.39 [6368:12120:0605/173208.395:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+Jun 05, 2018 17:33:34.98 [6368:12120:0605/173334.987:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+Jun 05, 2018 17:37:09.67 [6368:12120:0605/173709.670:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+Jun 05, 2018 17:39:14.49 [6368:2440:0605/173914.490:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:39:38.91 [6368:2440:0605/173938.919:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:40:34.02 [6368:2440:0605/174034.022:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:42:19.38 [6368:2440:0605/174219.387:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:44:02.18 [6368:12120:0605/174402.189:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -105
+Jun 05, 2018 17:45:36.39 [6368:2440:0605/174536.397:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:53:23.80 [6368:2440:0605/175323.803:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 11, 2018 11:36:12.08 NEW SESSION
+Jul 11, 2018 11:36:12.08 [1232:808:0711/113612.062:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 11, 2018 11:36:15.68 [1232:7852:0711/113615.681:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2018 11:36:15.71 [1232:7852:0711/113615.709:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Jul 11, 2018 11:36:42.01 [1232:7852:0711/113642.019:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Jul 11, 2018 11:36:43.98 [1232:7852:0711/113643.988:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2018 11:37:03.12 Unable to read VR Path Registry from C:\Users\Lailah\AppData\Local\openvr\openvrpaths.vrpath
+Jul 11, 2018 11:37:03.12 [1232:808:0711/113703.122:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 11, 2018 11:37:24.98 [1232:808:0711/113724.983:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 11, 2018 11:37:25.29 [1232:7852:0711/113725.296:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2018 11:37:36.53 [1232:7852:0711/113736.532:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Jul 11, 2018 11:38:23.93 [1232:808:0711/113823.914:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 11, 2018 11:38:48.24 [1232:7852:0711/113848.243:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2018 11:39:20.12 [1232:7852:0711/113920.125:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Jul 11, 2018 11:40:18.55 [1232:808:0711/114018.551:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 11, 2018 11:41:34.94 [1232:7852:0711/114134.942:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2018 11:42:03.17 [1232:7852:0711/114203.173:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Jul 11, 2018 11:43:59.47 [1232:808:0711/114359.474:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.

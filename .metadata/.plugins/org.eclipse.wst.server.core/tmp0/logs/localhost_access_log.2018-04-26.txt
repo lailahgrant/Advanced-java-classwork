@@ -1,0 +1,7 @@
+127.0.0.1 - - [26/Apr/2018:10:54:18 +0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [26/Apr/2018:10:54:25 +0300] "GET /SercletExamples/c_index.jsp HTTP/1.1" 200 938
+0:0:0:0:0:0:0:1 - - [26/Apr/2018:10:54:27 +0300] "GET /SercletExamples/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Apr/2018:10:54:27 +0300] "GET /SercletExamples/css/font-awesome.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Apr/2018:10:54:28 +0300] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [26/Apr/2018:10:54:32 +0300] "GET /SercletExamples/adduserform.jsp HTTP/1.1" 200 2571
+0:0:0:0:0:0:0:1 - - [26/Apr/2018:10:54:38 +0300] "GET /SercletExamples/viewusers.jsp HTTP/1.1" 200 1829

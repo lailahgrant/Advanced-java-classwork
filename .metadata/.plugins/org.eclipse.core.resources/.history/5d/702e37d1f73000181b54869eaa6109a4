@@ -1,0 +1,7 @@
+package com.lailah;
+
+public class ThreadC {
+	public void run() {
+		
+	}
+}

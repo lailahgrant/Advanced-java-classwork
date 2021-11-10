@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+D:\AdvJava\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2276497636.index
+\AdvJavaProject\src
+D:\AdvJava\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3285147742.index
+\SercletExamples\src

@@ -1,0 +1,110 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@ page import="java.sql.*" %>
+    <%@ page import="java.util.*" %>
+<!DOCTYPE html><!-- import="java.util.*" for date function  -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Registration Form</title>
+</head>
+<body>
+<form method="post" action="registration.jsp">
+	<center>
+		<table border="1" width="30%" cellpadding="5">
+			<thead>
+				<tr>
+					<th colspan="2">Enter Information Here</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+				<td>First name</td>
+				<td><input type="text" name="fname"></td>
+				</tr>
+				<tr>
+				<td>Last name</td>
+				<td><input type="text" name="lname"></td>
+				</tr>
+				<tr>
+				<td>Email</td>
+				<td><input type="email" name="email"></td>
+				</tr>
+				<tr>
+				<td>Mobile</td>
+				<td><input type="text" name="mobile"></td>
+				</tr>
+				<tr>
+				<td>Username</td>
+				<td><input type="text" name="uname"></td>
+				</tr>
+				<tr>
+				<td>Password</td>
+				<td><input type="password" name="pass"></td>
+				</tr>
+				<tr>
+				<td><input type="submit" value="Submit" name=""></td>
+				<td><input type="reset" value="Reset" name=""></td>
+				</tr>
+				<tr>
+				<td colspan="2">Already Registered!! <a href="index.jsp">Login Here</a></td>
+				</tr>
+			</tbody>
+		</table>	
+	</center>
+</form>
+
+
+<%
+
+	boolean isPostMethod = request.getMethod().equals("POST");
+	if(isPostMethod){
+		
+		String user = request.getParameter("uname");
+		String pass = request.getParameter("pass");
+		String fname = request.getParameter("fname");
+		String lname = request.getParameter("lname");
+		String email = request.getParameter("email");
+		String mobile = request.getParameter("mobile");
+		
+		Class.forName("com.mysql.jdbc.Driver"); //load driver
+		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/saipali","root",""); //set connection parameters eg username,pass,dbname
+		
+		Statement st = con.createStatement();
+		//result set
+		int i = st.executeUpdate("insert into members(first_name,last_name,email,mobile,username,password,regdate)	values('"+fname+"','"+lname+"','"+email+"','"+mobile+"','"+user+"','"+pass+"', CURDATE())");
+	
+		if(i>0){
+			ServletContext sc = getServletContext().getContext("/SercletExamples");
+			session.setAttribute("username",user);
+			//redirect to another page
+			response.sendRedirect("http://localhost:8080/SercletExamples/welcome.jsp?name="+user+"");
+			//out.println("Registration Successfull !!"+"<a href='index.jsp'> Go to Login</a>");
+		}else{
+			response.sendRedirect("index.jsp");
+		}
+		
+	}
+
+%>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

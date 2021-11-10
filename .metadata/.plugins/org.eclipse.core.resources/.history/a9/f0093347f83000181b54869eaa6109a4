@@ -1,0 +1,10 @@
+package com.lailah;
+
+public class MyThread {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//create objects from the other threads A,B,C
+	}
+
+}

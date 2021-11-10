@@ -1,0 +1,6 @@
+127.0.0.1 - - [30/May/2018:12:39:00 +0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [30/May/2018:12:39:05 +0300] "GET /AdvJavaProject/landing.jsp HTTP/1.1" 200 1668
+0:0:0:0:0:0:0:1 - - [30/May/2018:12:39:06 +0300] "GET /AdvJavaProject/bootstrap/css/style.css HTTP/1.1" 200 1817
+0:0:0:0:0:0:0:1 - - [30/May/2018:12:39:06 +0300] "GET /AdvJavaProject/bootstrap/js/jquery-3.3.1.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/May/2018:12:39:06 +0300] "GET /AdvJavaProject/bootstrap/assets/emp.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/May/2018:12:39:07 +0300] "GET /favicon.ico HTTP/1.1" 404 973

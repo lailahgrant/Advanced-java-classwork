@@ -1,0 +1,40 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>My login page</title>
+</head>
+<body>
+<form method="post" action="index.jsp">
+<center>
+<table>
+<thead>
+<tr>
+<td>Login page</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Enter your username</td>
+<td><input type="text" name="user"></td>
+</tr>
+<tr>
+<td>Enter your passsword</td>
+<td><input type="password" name="pass"></td>
+</tr>
+<tr>
+<td>Confirm your passsword</td>
+<td><input type="password" name="pass1"></td>
+</tr>
+<tr>
+<td><input type="submit" name="" value="Submit"></td>
+<td><input type="reset" name="" value="Reset"></td>
+</tr>
+</tbody>
+</table>
+</center>
+</form>
+</body>
+</html>

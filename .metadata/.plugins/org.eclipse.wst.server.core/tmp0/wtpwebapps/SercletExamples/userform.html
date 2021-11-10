@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Add a user</title>
+
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+        <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+        <!--Be sure to include popper.min.js before Bootstrap’s JavaScript-->
+        <script type="text/javascript" src="js/popper.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+<div class="row mt-5">
+<a class="btn btn-outline-primary" href="viewusers.jsp">View All Records</a>
+</div>
+
+<div class="row mt-1 mb-3">
+<h1 class="text-dark">Add new User</h1>
+</div>
+
+<div class="row">
+<form action="adduser.jsp" method="post">
+<table class="table table-hover">
+<tr><td>Name</td><td><div class="form-group"><input type="text" name="name" class="form-control"></div></td></tr>
+<tr><td>Password</td><td><div class="form-group"><input type="password" name="password" class="form-control"></div></td></tr>
+<tr><td>Email</td><td><div class="form-group"><input type="email" name="email" class="form-control"></div></td></tr>
+<tr><td>Sex</td><td><input type="radio" name="sex" value="M">Male<input type="radio" name="sex" value="F">Female</td></tr>
+<tr><td>Country</td><td><select class="form-control" name="country" style="width:155px;">
+<option>India</option>
+<option>Pakistan</option>
+<option>Afghanistan</option>
+<option>Uganda</option>
+<option>Kenya</option>
+<option>Japan</option>
+<option>Other</option>
+</select></td></tr>
+<tr><td colspan="2"><div class="form-group"><input type="submit" value="Add User" class="btn btn-outline-primary"></div></td></tr>
+</table>
+</form>
+
+</div>
+</div>
+
+</body>
+</html>

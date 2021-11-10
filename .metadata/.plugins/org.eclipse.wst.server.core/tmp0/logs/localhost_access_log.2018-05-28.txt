@@ -1,0 +1,15 @@
+127.0.0.1 - - [28/May/2018:10:50:35 +0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:50:47 +0300] "GET /AdvJavaProject/update.jsp HTTP/1.1" 500 2919
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:50:49 +0300] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:02 +0300] "GET /AdvJavaProject/home.jsp HTTP/1.1" 200 9855
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:03 +0300] "GET /AdvJavaProject/css/mystyles.css HTTP/1.1" 404 1013
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:03 +0300] "GET /AdvJavaProject/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:03 +0300] "GET /AdvJavaProject/css/sb-admin.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:03 +0300] "GET /AdvJavaProject/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:03 +0300] "GET /AdvJavaProject/js/scripts.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:03 +0300] "GET /AdvJavaProject/js/sb-admin.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:21 +0300] "GET /AdvJavaProject/view-employees.jsp HTTP/1.1" 200 13908
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:21 +0300] "GET /AdvJavaProject/css/mystyles.css HTTP/1.1" 404 1013
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:26 +0300] "GET /AdvJavaProject/update.jsp?emp_id=5 HTTP/1.1" 200 8667
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:26 +0300] "GET /AdvJavaProject/css/mystyles.css HTTP/1.1" 404 1013
+0:0:0:0:0:0:0:1 - - [28/May/2018:10:51:31 +0300] "POST /AdvJavaProject/UpdateEmployee HTTP/1.1" 500 1513

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Registration form</title>
+
+       <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+        <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+        <!--Be sure to include popper.min.js before Bootstrap’s JavaScript-->
+        <script type="text/javascript" src="js/popper.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<form action="Register" method="post">
+<div class="container">
+<div class="row mt-5">
+<h3 class="text-dark">Registration form</h3>
+</div>
+<div class="col-lg-8">
+<div class="row">
+<table class="table table-striped">
+<thead>
+<td><h3 class="text-dark">Enter your Registration Details</h3></td>
+</thead>
+<tbody>
+<tr>
+<td>Enter your Name</td>
+<td><div class="form-group"><input class="form-control" type="text" name="userName"></div></td>
+</tr>
+<tr>
+<td>Enter your Password</td>
+<td><div class="form-group"><input class="form-control" type="password" name="userPass"></div></td>
+</tr>
+<tr>
+<td>Enter your Email </td>
+<td><div class="form-group"><input type="text" name="userEmail" class="form-control"></div></td>
+</tr>
+<tr>
+<td>Country</td>
+<td>
+	<select class="form-control" name="userCountry">
+		<option>Uganda</option>
+		<option>Kenya</option>
+		<option>Tanzania</option>
+		<option>Rwanda</option>
+		<option>DRC</option>
+		<option>Other</option>
+	</select>
+</td>
+</tr>
+<tr>
+<div class="form-group">
+<td><input type="submit" value="register" class="btn btn-outline-dark"><br></td>
+<td>Already registerd then <a href="login.html"> Login here</a></td>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+</form>
+
+</body>
+</html>

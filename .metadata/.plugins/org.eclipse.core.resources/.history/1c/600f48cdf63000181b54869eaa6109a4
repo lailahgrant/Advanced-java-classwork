@@ -1,0 +1,7 @@
+package com.lailah;
+
+public class ThreadA extends Thread{
+	public void run() {
+		
+	}
+}
